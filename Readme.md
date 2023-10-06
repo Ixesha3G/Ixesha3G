@@ -13,6 +13,3 @@ Passionate and solution-focused Software Engineer of a global consultancy firm w
 👯‍♀️ I'm looking to collaborate on interesting projects
 
 😄 Pronouns He/Him
-
-⚡️ Fun fact I came to Canada from Hong Kong
-
