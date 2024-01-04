@@ -7,7 +7,7 @@ Passionate and solution-focused Software Engineer of a global consultancy firm w
 [![portfolio](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terryleung00)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terryleungcy/)
 
-## Other Common Github Profile Sections
+## 🔎 More
 🧠 I'm currently learning onlince course by University of Helsinki
 
 👯‍♀️ I'm looking to collaborate on interesting projects
